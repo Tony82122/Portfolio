@@ -1,6 +1,5 @@
 ﻿# Quick Start Guide - Anthony Richards Portfolio
 
-## Your portfolio is ready to launch!
 
 ### Step 1: Open PowerShell/Terminal
 Open a PowerShell window or Command Prompt in your project directory.
@@ -19,27 +18,18 @@ python manage.py runserver
 ### Step 4: Open in Browser
 Visit: **http://localhost:8000/**
 
-Your portfolio will display at this address!
+ portfolio will display at this address
 
 ---
 
 ## Access the Admin Panel
 Visit: **http://localhost:8000/admin/**
 
-You can manage your portfolio content here.
+ manage your portfolio content here.
 
 ---
 
-## What's Ready
 
-✅ Portfolio homepage personalized with your information
-✅ About section with your background
-✅ Skills section with your technical skills
-✅ Resume section with your work experience and education
-✅ Projects section showcasing your work
-✅ Contact form for visitors to reach you
-
----
 
 ## Your Information Currently On Site
 
@@ -79,13 +69,4 @@ Press `CTRL + C` in your terminal
 
 ---
 
-## Next Steps
-
-1. ✅ Your portfolio is personalized and ready
-2. Add your projects to the Projects section via admin panel
-3. Upload a better profile image if needed
-4. Consider deploying it online (Heroku, PythonAnywhere, etc.)
-5. Update contact information if needed
-
-Enjoy your portfolio!
 
