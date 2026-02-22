@@ -657,6 +657,26 @@ section {
   bottom: 0;
 }
 
+.portfolio .portfolio-info {
+  padding: 15px 0 10px 0;
+  text-align: center;
+}
+
+.portfolio .portfolio-info h4 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #272829;
+  margin-bottom: 5px;
+  line-height: 1.2;
+}
+
+.portfolio .portfolio-info p {
+  font-size: 14px;
+  color: #149ddd;
+  margin: 0;
+  font-weight: 500;
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
