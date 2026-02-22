@@ -7,7 +7,7 @@ class Contact(models.Model):
     email = models.EmailField()
     subject = models.CharField(max_length=20)
     message = models.TextField(max_length=40)
-    
+
 
 
     def __str__(self):
