@@ -1,0 +1,55 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Django
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# Environment
+.env
+.env.*
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
+
+# Sensitive files
+# (Add any other files containing secrets, e.g. settings.py if it contains SECRET_KEY)
+
+# Ignore compiled files
+*.so
+
+# Misc
+*.bak
+*.swp
+
+# Ignore test artifacts
+htmlcov/
+coverage.xml
+
+# Ignore build artifacts
+dist/
+build/
+
+# Ignore node_modules if present
+node_modules/
+
+# Ignore other files as needed
+
