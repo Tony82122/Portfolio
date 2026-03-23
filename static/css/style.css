@@ -238,7 +238,8 @@ h6 {
   background-attachment: fixed;
   background-repeat: no-repeat;
   position: relative;
-  background-color: #040b14;
+  background-color: transparent;
+  border: none;
 }
 
 #hero:before {
