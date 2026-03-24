@@ -1,3 +1,53 @@
+/* Custom Hero Section Styles */
+.hero-section-custom {
+  position: relative;
+  width: 100vw;
+  min-height: 100vh;
+  background: url('https://i.postimg.cc/PqV4vfD5/254fdb03-3ecb-49c2-9af4-577e70f5ce1a.jpg') center center/cover no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.hero-section-custom .hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(10, 20, 40, 0.65);
+  z-index: 1;
+}
+
+.hero-section-custom .hero-container {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+}
+
+.hero-section-custom h1,
+.hero-section-custom p {
+  color: #fff;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.7);
+}
+
+@media (max-width: 768px) {
+  .hero-section-custom {
+    min-height: 60vh;
+    background-position: center top;
+  }
+
+  .hero-section-custom h1 {
+    font-size: 2rem;
+  }
+
+  .hero-section-custom p {
+    font-size: 1.1rem;
+  }
+}
+
 /**
 * Template Name: iPortfolio - v3.10.0
 * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
