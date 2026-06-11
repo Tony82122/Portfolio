@@ -12,12 +12,12 @@ Personal portfolio website showcasing experience in backend development, full-st
 - Professional portfolio presentation
 
 
-## 🔗 Links
+##  Links
 [![GitHub](https://img.shields.io/badge/GitHub-Tony8212-black?style=for-the-badge&logo=github)](https://github.com/Tony8212)
 [![Email](https://img.shields.io/badge/Email-tony82122%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:tony82122@gmail.com)
 
 
-## 🛠 Skills
+## Skills
 Java, Python, C#, PHP, Go (Golang), SQL (PostgreSQL), JavaScript, HTML/CSS, REST APIs, Event-Driven Systems, Git, CI/CD, Django, Bootstrap...
 
 
